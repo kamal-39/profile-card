@@ -121,6 +121,19 @@ body
 
 }
 
+.link.facebook {
+    background: #4267b2;
+}
+.link.twitter {
+    background: #1da1f2;
+}
+.link.instagram {
+    background: #e1306c;
+}
+.link.youtube {
+    background: #ff0000;
+}
+
 .profile-card .buttons
 {
     display: flex;
